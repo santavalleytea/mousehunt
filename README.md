@@ -1,3 +1,3 @@
-Simple mouse hunt game for the first assignment for my first year CS unit
+Simple text-based mouse hunt game for the first assignment for my first year CS unit
 
 Written in Python
