@@ -14,4 +14,4 @@ To play Mousehunt, you need Python installed on your computer. This game is comp
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/mousehunt.git
+   git clone https://github.com/santavalleytea/mousehunt.git
